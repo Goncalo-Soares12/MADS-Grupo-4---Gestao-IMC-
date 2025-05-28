@@ -1,4 +1,4 @@
-from .funcoes import (
+from .gestão_de_imc import (
     add_pessoa,
     calcular_imc,
     add_dados,
